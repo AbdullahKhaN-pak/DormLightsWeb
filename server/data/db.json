@@ -1,0 +1,220 @@
+{
+  "products": [
+    {
+      "id": "prod-1",
+      "name": "Pro Profile Strip",
+      "slug": "pro-profile-strip",
+      "category": "Profile Strips",
+      "price": 89.00,
+      "originalPrice": 109.00,
+      "rating": 4.9,
+      "reviewsCount": 128,
+      "stock": 42,
+      "badge": "BEST SELLER",
+      "description": "Professional-grade anodized aluminum light extrusion with dense diffusion for 100% dot-free warm gold and RGB lighting. Designed for desk edges, headboards, and ceiling accents.",
+      "features": [
+        "Aircraft-grade extruded aluminum chassis",
+        "Opalescent frosted diffuser lens for dot-free glow",
+        "Custom app control with 100+ preset light scenes",
+        "Includes strong 3M VHB adhesive and magnetic mounting clips"
+      ],
+      "specs": ["WIFI 6", "RGBIC+", "ALUMINUM GRADE", "DOT-FREE"],
+      "images": [
+        "https://lh3.googleusercontent.com/aida-public/AB6AXuAtuTOpkOFihU9tCyuDaflF3mGNYghLjp6i_DyDasS8r0Ylqmw8HEqbVavIe_hNXrr300KY1LrKdyfV4dX59wQiEn-gs5gFg8uuA6xyViSZ4Zzl5hHG1KR6vOPZtACUoYW7577Vlb22n6Etp4h-EyY03Ivp0lqgPq7z3rJLWIW14d8fvTTAbB2747QnVD-mqThq_927wbWgUbT-b-GMVn0UrzSJHUck_SPphEbqYOcj6T381Va5_mvQpnMIi6-kjK11nUxyW66C7HIK",
+        "https://lh3.googleusercontent.com/aida-public/AB6AXuAXwsFFfObahWYN4-ueUN_FfSv3rY_TmrfzJUOK7bFCLozG5LsLvJ5V8OBL59dw8t4fhvab32VFMktlo85OU0xZ5mdNg1THsUrKT39zAupGHagX6SYi9u4OfiUMkMMbaye8iYIbScY0hjSmaTS2-dyvMzJ0jb-Ni-NSLTGkD8LuAbQ8MnGOylTRZOJzPoC-dut5H9SCYK-eNIYEruQbWYHkBZbch4LjxGu1EFnwkaoOyJJbIl-D4IHenpDJWxlceMvZDOxlzaYZzjif"
+      ],
+      "inStock": true,
+      "createdAt": "2026-07-01T10:00:00Z"
+    },
+    {
+      "id": "prod-2",
+      "name": "Warm White Ambient Kit",
+      "slug": "warm-white-ambient-kit",
+      "category": "Warm White",
+      "price": 69.00,
+      "originalPrice": 79.00,
+      "rating": 4.8,
+      "reviewsCount": 94,
+      "stock": 18,
+      "badge": "STUDENT ESSENTIAL",
+      "description": "Ultra-cozy 2700K incandescent-style warm white LED kit. Transforms harsh overhead university dorm fluorescent lighting into a calming sanctuary atmosphere.",
+      "features": [
+        "2700K Gold-standard warm color temperature",
+        "Stepless touch brightness dimmer wheel",
+        "Low heat, fire-safe low-voltage power supply",
+        "5 Meter customizable length with cut marks"
+      ],
+      "specs": ["2700K WARM", "DIMMABLE", "3M TAPE", "FIRE-SAFE"],
+      "images": [
+        "https://lh3.googleusercontent.com/aida-public/AB6AXuApuY8jRXu5yrOTVwouzmKhU01k5fL3_9pLaTa2ePC7ajznfsgP3QwSsst3ch4DZK0uXUBcgxBxxs0fPofS_iOBX72e4-o1QsVz_3eJQob_XtMBUUXKEbzhXQu7l9WndOVTUK_m1v0vwILo9yWf45dqluQdoi2PiUm_ZMSuuf1L4qIQQSP958HhKABxxz0gBwGFtX5C4fVF2TdQUMpEpYt3rBCFnNFF-s4CrYkfapib9UlLAU8U7iMt28_rECPGg7TyH_UWM6EL02HW"
+      ],
+      "inStock": true,
+      "createdAt": "2026-07-05T10:00:00Z"
+    },
+    {
+      "id": "prod-3",
+      "name": "RGBIC Neon Flex Rope",
+      "slug": "rgbic-neon-flex-rope",
+      "category": "RGB Neon",
+      "price": 79.00,
+      "originalPrice": 95.00,
+      "rating": 4.9,
+      "reviewsCount": 81,
+      "stock": 5,
+      "badge": "POPULAR",
+      "description": "360-degree flexible silicone neon light tube. Bendable into wall shapes, typography, or desktop outlines with individually addressable color zones.",
+      "features": [
+        "16 Million full RGBIC color spectrum",
+        "Microphone input for music ambient beat sync",
+        "Durable IP67 flexible food-grade silicone sheath",
+        "Compatible with Alexa, Google Home, and Apple HomeKit"
+      ],
+      "specs": ["16M COLORS", "MUSIC SYNC", "APP CONTROL", "IP67"],
+      "images": [
+        "https://lh3.googleusercontent.com/aida-public/AB6AXuBYKI4aki-T_Fsx2EX-S0SC2SAAN8cXwei8QsY4bcsePquSmR2dH98aScOzufI_4sYFM-TFhlD8q5fPXRpZoRk7vRp_4mN1VmqZMnw30GYapheQnX6t2RFKG54d-1_x5ZODtNlokdWYLE69xaV7ULTcPDnGUJEAd1MAB_9bfFR0jMZ6bgLPbTmUmar-es0wtvkZWVCxp_KESxqEaVvcDMpPWCr0xNPw3NXrEMv0zVjEKfaFa1tflVqoHZ8GHVdXJ1fcBFi_CgSjOSeF"
+      ],
+      "inStock": true,
+      "createdAt": "2026-07-10T10:00:00Z"
+    },
+    {
+      "id": "prod-4",
+      "name": "Sanctuary Room Bundle",
+      "slug": "sanctuary-room-bundle",
+      "category": "Bundles",
+      "price": 179.00,
+      "originalPrice": 229.00,
+      "rating": 5.0,
+      "reviewsCount": 64,
+      "stock": 12,
+      "badge": "20% OFF BUNDLE",
+      "description": "The ultimate dorm room lighting suite. Includes 1x Pro Aluminum Strip for desk, 1x Warm Bedframe Glow Kit, and 1x Monitor Light Bar with Smart Wireless Switch.",
+      "features": [
+        "3 Synchronized lighting zones in one package",
+        "Centralized wireless smart rotary dial controller",
+        "Master power switch with sleep timer auto-turnoff",
+        "Free priority express shipping included"
+      ],
+      "specs": ["ALL-IN-ONE", "20% SAVINGS", "SMART HUB", "EXPRESS SHIP"],
+      "images": [
+        "https://lh3.googleusercontent.com/aida-public/AB6AXuB4WYMQtVPc3koLiazFyYfr7rXbNrmWBV77t89iDcwFwxKRexoZVLyx9Wp4hRUetxtvYFA6a6c7a9F5EPQwPo_FtHr6B3xmZNU5X2pfuH78wDfDJSEATSDq2etyqQn77959upai_moBAh3k5LEoiHBinoxjUJaROrh6s_DEzM9WMi5kFSysSx4jijOg1PJD6jVO2iuBZS1IosNrM4G4zunSnOHp_SPqQWU0FKHfDnhkQjzAjYjo28pRerrmPvF52k67jq8oNJLCKMNk"
+      ],
+      "inStock": true,
+      "createdAt": "2026-07-15T10:00:00Z"
+    },
+    {
+      "id": "prod-5",
+      "name": "Desk Monitor Light Bar",
+      "slug": "desk-monitor-light-bar",
+      "category": "Profile Strips",
+      "price": 59.00,
+      "originalPrice": 69.00,
+      "rating": 4.7,
+      "reviewsCount": 42,
+      "stock": 25,
+      "badge": "FOCUS",
+      "description": "Asymmetric optical lamp designed specifically for computer monitors. Eliminates screen glare while lighting up your study desk with warm to cool white illumination.",
+      "features": [
+        "Zero screen glare asymmetric optical lens",
+        "Touch sensor color temp selector (3000K-6000K)",
+        "Counterweight clamp fits curved and flat monitors",
+        "USB-C powered directly from laptop or monitor"
+      ],
+      "specs": ["ANTI-GLARE", "TOUCH CONTROL", "USB-C", "3000K-6000K"],
+      "images": [
+        "https://lh3.googleusercontent.com/aida-public/AB6AXuAtuTOpkOFihU9tCyuDaflF3mGNYghLjp6i_DyDasS8r0Ylqmw8HEqbVavIe_hNXrr300KY1LrKdyfV4dX59wQiEn-gs5gFg8uuA6xyViSZ4Zzl5hHG1KR6vOPZtACUoYW7577Vlb22n6Etp4h-EyY03Ivp0lqgPq7z3rJLWIW14d8fvTTAbB2747QnVD-mqThq_927wbWgUbT-b-GMVn0UrzSJHUck_SPphEbqYOcj6T381Va5_mvQpnMIi6-kjK11nUxyW66C7HIK"
+      ],
+      "inStock": true,
+      "createdAt": "2026-07-18T10:00:00Z"
+    },
+    {
+      "id": "prod-6",
+      "name": "Under-Bed Glow Sensor Strip",
+      "slug": "under-bed-glow-sensor-strip",
+      "category": "Warm White",
+      "price": 49.00,
+      "originalPrice": 59.00,
+      "rating": 4.8,
+      "reviewsCount": 57,
+      "stock": 3,
+      "badge": "LOW STOCK",
+      "description": "PIR Motion activated warm nightlight strip. Automatically illuminates when your feet touch the dorm floor at night without waking room partners.",
+      "features": [
+        "Passive Infrared Motion sensor with 3m detection range",
+        "Adjustable stay-on timer (30s to 10 min)",
+        "Soft warm gold 2400K illumination",
+        "Discreet ultra-thin flex wiring"
+      ],
+      "specs": ["MOTION SENSOR", "WARM GOLD", "NIGHT LIGHT", "AUTO TIMER"],
+      "images": [
+        "https://lh3.googleusercontent.com/aida-public/AB6AXuApuY8jRXu5yrOTVwouzmKhU01k5fL3_9pLaTa2ePC7ajznfsgP3QwSsst3ch4DZK0uXUBcgxBxxs0fPofS_iOBX72e4-o1QsVz_3eJQob_XtMBUUXKEbzhXQu7l9WndOVTUK_m1v0vwILo9yWf45dqluQdoi2PiUm_ZMSuuf1L4qIQQSP958HhKABxxz0gBwGFtX5C4fVF2TdQUMpEpYt3rBCFnNFF-s4CrYkfapib9UlLAU8U7iMt28_rECPGg7TyH_UWM6EL02HW"
+      ],
+      "inStock": true,
+      "createdAt": "2026-07-20T10:00:00Z"
+    }
+  ],
+  "categories": [
+    { "id": "cat-1", "name": "Profile Strips", "slug": "profile-strips", "description": "Aluminum extrusions & dot-free linear lights", "count": 2 },
+    { "id": "cat-2", "name": "Warm White", "slug": "warm-white", "description": "Cozy 2700K ambient sanctuary lighting", "count": 2 },
+    { "id": "cat-3", "name": "RGB Neon", "slug": "rgb-neon", "description": "Dynamic colorful silicone flex lighting", "count": 1 },
+    { "id": "cat-4", "name": "Bundles", "slug": "bundles", "description": "Complete room transformation packages", "count": 1 }
+  ],
+  "orders": [
+    {
+      "id": "ORD-1092",
+      "customerName": "Alex Chen",
+      "customerEmail": "alex.chen@harvard.edu",
+      "items": [
+        { "id": "prod-1", "name": "Pro Profile Strip", "price": 89.00, "quantity": 1 }
+      ],
+      "total": 89.00,
+      "status": "Shipped",
+      "shippingAddress": "Wigglesworth Hall, Cambridge MA 02138",
+      "paymentMethod": "Credit Card (Visa ending 4242)",
+      "createdAt": "2026-07-21T14:32:00Z"
+    },
+    {
+      "id": "ORD-1093",
+      "customerName": "Sophia Taylor",
+      "customerEmail": "sophia.t@stanford.edu",
+      "items": [
+        { "id": "prod-4", "name": "Sanctuary Room Bundle", "price": 179.00, "quantity": 1 }
+      ],
+      "total": 161.10,
+      "couponCode": "DORM10",
+      "status": "Processing",
+      "shippingAddress": "Roble Hall, Stanford CA 94305",
+      "paymentMethod": "Apple Pay",
+      "createdAt": "2026-07-22T09:15:00Z"
+    },
+    {
+      "id": "ORD-1094",
+      "customerName": "Liam Johnson",
+      "customerEmail": "ljohnson@mit.edu",
+      "items": [
+        { "id": "prod-2", "name": "Warm White Ambient Kit", "price": 69.00, "quantity": 2 }
+      ],
+      "total": 138.00,
+      "status": "Pending",
+      "shippingAddress": "Baker House, Cambridge MA 02139",
+      "paymentMethod": "Credit Card (Mastercard ending 8812)",
+      "createdAt": "2026-07-22T21:40:00Z"
+    }
+  ],
+  "customers": [
+    { "id": "cust-1", "name": "Alex Chen", "email": "alex.chen@harvard.edu", "ordersCount": 1, "totalSpent": 89.00, "status": "Active" },
+    { "id": "cust-2", "name": "Sophia Taylor", "email": "sophia.t@stanford.edu", "ordersCount": 1, "totalSpent": 161.10, "status": "Active" },
+    { "id": "cust-3", "name": "Liam Johnson", "email": "ljohnson@mit.edu", "ordersCount": 1, "totalSpent": 138.00, "status": "Active" }
+  ],
+  "coupons": [
+    { "id": "coup-1", "code": "DORM10", "discountPercent": 10, "minSpend": 50, "status": "Active", "usageCount": 18 },
+    { "id": "coup-2", "code": "WELCOME20", "discountPercent": 20, "minSpend": 100, "status": "Active", "usageCount": 45 }
+  ],
+  "settings": {
+    "storeName": "DormLights Digital Experience",
+    "supportEmail": "support@dormlights.com",
+    "currency": "USD",
+    "taxRate": 6.5,
+    "freeShippingThreshold": 99.00,
+    "whatsappNumber": "+18005553676"
+  }
+}
